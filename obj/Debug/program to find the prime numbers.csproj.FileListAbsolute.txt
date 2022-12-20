@@ -1,0 +1,8 @@
+C:\Users\Man Atef\Desktop\program to find the prime numbers\program to find the prime numbers\bin\Debug\program to find the prime numbers.exe.config
+C:\Users\Man Atef\Desktop\program to find the prime numbers\program to find the prime numbers\bin\Debug\program to find the prime numbers.exe
+C:\Users\Man Atef\Desktop\program to find the prime numbers\program to find the prime numbers\bin\Debug\program to find the prime numbers.pdb
+C:\Users\Man Atef\Desktop\program to find the prime numbers\program to find the prime numbers\obj\Debug\program to find the prime numbers.csproj.AssemblyReference.cache
+C:\Users\Man Atef\Desktop\program to find the prime numbers\program to find the prime numbers\obj\Debug\program to find the prime numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Man Atef\Desktop\program to find the prime numbers\program to find the prime numbers\obj\Debug\program to find the prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\Man Atef\Desktop\program to find the prime numbers\program to find the prime numbers\obj\Debug\program to find the prime numbers.exe
+C:\Users\Man Atef\Desktop\program to find the prime numbers\program to find the prime numbers\obj\Debug\program to find the prime numbers.pdb
